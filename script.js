@@ -9,3 +9,4 @@ script.js doesn't contain: ["display"] / script.js doesn't contain: ["Registrati
 script.js doesn't contain: ["username.length"]
 script.js doesn't contain: ["password.length", "8"]
 script.js doesn't contain: ["password.length", "8"]
+script.js doesn't contain: ["@"]
